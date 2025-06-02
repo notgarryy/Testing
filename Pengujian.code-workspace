@@ -6,6 +6,18 @@
 		{
 			"name": "Pengujian_GPIO_dan_Data_Serial",
 			"path": "Pengujian_GPIO_dan_Data_Serial"
+		},
+		{
+			"name": "Pengujian_LCD",
+			"path": "Pengujian_LCD"
+		},
+		{
+			"name": "Pengujian_BLE_dan_Subsistem_1",
+			"path": "Pengujian_BLE_dan_Subsistem_1"
+		},
+		{
+			"name": "Pengujian_Subsistem_2_dan_3",
+			"path": "Pengujian_Subsistem_2_dan_3"
 		}
 	],
 	"settings": {}
