@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Pengujian_GPIO_dan_Data_Serial",
+			"path": "Pengujian_GPIO_dan_Data_Serial"
+		}
+	],
+	"settings": {}
+}
